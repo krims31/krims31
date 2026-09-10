@@ -35,14 +35,6 @@
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krims31&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
-
-</div>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krims31&color=blue&style=flat)
