@@ -1,3 +1,5 @@
+![realme](https://shields.io)
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+krims31;Frontend+%2F+Full-stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+NestJS" alt="Typing SVG" />
