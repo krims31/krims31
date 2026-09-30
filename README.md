@@ -34,6 +34,4 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=krims31&color=blue&style=flat)
-
 </div>
