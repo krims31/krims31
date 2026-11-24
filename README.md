@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,prisma,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=c,js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,prisma,postgres,git,github" />
 
 </div>
 
