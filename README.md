@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://demolab.com" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+;Frontend+%2F+Full-stack+Developer;Hardware+%26+Embedded+Systems+Developer;KiCad+%7C+PCB+Design+%7C+C+%7C+MCUReact+%7C+TypeScript+%7C+Node.js+%7C+NestJS" alt="Typing SVG" />
+
 
 </div>
 
